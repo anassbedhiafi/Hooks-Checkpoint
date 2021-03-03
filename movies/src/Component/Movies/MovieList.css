@@ -1,0 +1,113 @@
+.movie-card {
+  display: inline-flex;
+  max-width: 300px;
+  width: 300px;
+  margin: 8% 5% 5% 7.5%;
+  color: red;
+  border: 2px solid white;
+  box-shadow: 10px 10px 5px transparent;
+  border-radius: 8px 8px 8px 8px;
+  background-color: transparent !important;
+  height: 750px !important;
+}
+.Stars,
+.Star1,
+.Star,
+.react-stars-06203139197651735,
+.react-stars-06203139197651735 {
+  background-color: transparent !important;
+}
+.card-body {
+  background-image: url(https://media.giphy.com/media/dW5vVlXQlC5tSBleeT/giphy.gif);
+}
+
+.movie-card.card {
+  height: 450px;
+}
+
+.card-footer-badge {
+  font-size: 1rem;
+}
+.rating,
+.fa {
+  filter: grayscale(100%) !important;
+  width: 200px !important;
+}
+.btn-primary {
+  border-color: red !important ;
+  margin: 5% 0% 5% 0%;
+
+  margin: 5% 0% 5% 0%;
+}
+.card-img-top {
+  height: 400px;
+  margin: 4% 0% 0% 1.8%;
+  background-color: transparent !important;
+  border: 2px solid purple;
+  box-shadow: 10px 10px 5px transparent;
+}
+.card-title {
+  font-size: 17px !important;
+  background-color: transparent !important;
+}
+.movietype {
+  font-size: 14px !important;
+  background-color: transparent !important;
+}
+.card-text {
+  font-size: 12px !important;
+  background-color: transparent !important;
+}
+.moviecard {
+  margin: 0% 0% 0% 15%;
+  background-color: transparent !important;
+}
+.nejma {
+  display: flex;
+  flex-direction: row;
+  margin: 3% 0% 10% 0%;
+  background-color: transparent !important;
+}
+/*search*/
+.searchingholder {
+  display: flex;
+  justify-content: center;
+  margin: 4% 1.4% 0% 0%;
+}
+.searchholder1 {
+  display: flex;
+  justify-content: center;
+}
+.prompt {
+  padding: 14px 32px 14px 16px;
+  border-radius: 4px 4px 4px 4px;
+  border: 1px solid white;
+  box-shadow: 10px 10px 5px transparent;
+  outline: none;
+  width: 320px;
+  background: transparent;
+  color: #fff;
+  margin: 0% 0% 2% 8%;
+}
+.fas {
+  color: white !important;
+}
+.searchbutton {
+  color: red !important;
+  background-color: transparent !important;
+  border: none !important;
+  text-align: center !important;
+  text-decoration: none !important;
+  display: inline-block !important;
+  font-size: 16px !important;
+  margin: 3.6% 0% 0% 3%;
+  cursor: pointer !important;
+}
+.searchholder {
+  display: flex !important;
+  flex-wrap: nowrap !important;
+  flex-direction: row !important;
+  text-align: center !important;
+  text-decoration: none !important;
+  font-size: 16px !important;
+}

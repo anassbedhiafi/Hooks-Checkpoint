@@ -1,0 +1,9 @@
+/*buttons*/
+.control-dots {
+  background-color: transparent !important;
+  color: white !important;
+}
+.dot {
+  color: white !important;
+  background-color: white !important;
+}

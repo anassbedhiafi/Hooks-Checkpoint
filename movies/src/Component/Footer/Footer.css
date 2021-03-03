@@ -1,0 +1,45 @@
+/* IMPORTING FONTS */
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative&family=Homemade+Apple&family=Lexend+Mega&family=Tangerine:wght@700&display=swap");
+
+/*box footer */
+.footerpos {
+  border: 1px solid white;
+  box-sizing: border-box;
+}
+
+/* footer COLOR */
+.bg-dark,
+.navbar,
+.footerpos {
+  background-color: black !important;
+  color: black !important;
+}
+/*BUTTONS */
+.nav-link {
+  color: white !important;
+  font-family: "Rubik", sans-serif !important;
+  font-size: smaller !important;
+}
+/* footer POSTION */
+.footerpos {
+}
+/* HOVER BUTTONS */
+.nav-link:hover {
+  color: red !important;
+}
+/*Enjoy BUTTON */
+.orange {
+  color: red !important;
+}
+
+/* H3 FONT */
+.profilfont {
+  text-align: center;
+  color: orange;
+  font-family: "Cinzel Decorative", cursive;
+  font-family: "Lexend Mega", sans-serif;
+}
+/*netflixico*/
+.netflixicosize {
+  width: 30px;
+}
